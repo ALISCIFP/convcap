@@ -1,4 +1,4 @@
-# ConvCap: Convolutional Image Captioning
+# GANCap: Convolutional Image Captioning with GAN loss on text generation
 
 PyTorch implementation of -- [Convolutional Image Captioning](https://arxiv.org/abs/1711.09151)                 
 
